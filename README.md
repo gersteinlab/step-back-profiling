@@ -1,4 +1,4 @@
-# Worflow of Step-back-Profiling
+# Workflow of Step-back-Profiling
 
 ## Dataset Generation
 1. Get sampled author list and paper list in JSON format: Dataset/data_construction.ipynb
