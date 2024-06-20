@@ -28,7 +28,7 @@ The dataset generation process involves the following steps:
 3. Extract research questions from papers:
    - `dataset/research_question_extraction.ipynb`
 
-## Results Generation
+## PSW Results Generation
 
 For generating results for each task, follow these steps:
 
@@ -44,7 +44,9 @@ For generating results for each task, follow these steps:
    - `psw_result/task3_solving.ipynb`
    - `psw_result/task4_solving.ipynb`
 
-## LaMP Result
+## LaMP Results Generation
+
+![LaMP](assets/LaMP_radar_chart.png)
 
 The `lamp_result/` directory contains the following notebooks:
 
