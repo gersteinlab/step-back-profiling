@@ -1,8 +1,8 @@
 # STEP-BACK PROFILING: Distilling User History for Personalized Scientific Writing
-
-![GitHub](https://img.shields.io/github/license/step-back-profiling/step-back-profiling)
-![GitHub](https://img.shields.io/github/issues/step-back-profiling/step-back-profiling)
-![GitHub](https://img.shields.io/github/forks/step-back-profiling/step-back-profiling)
+https://github.com/gersteinlab/step-back-profiling
+![GitHub](https://img.shields.io/github/license/gersteinlab/step-back-profiling)
+![GitHub repo size](https://img.shields.io/github/repo-size/gersteinlab/step-back-profiling)
+![GitHub last commit](https://img.shields.io/github/last-commit/gersteinlab/step-back-profiling)
 
 This repository contains the code and dataset for the paper "STEP-BACK PROFILING: Distilling User History for Personalized Scientific Writing".
 
