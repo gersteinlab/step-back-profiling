@@ -1,12 +1,12 @@
 # STEP-BACK PROFILING: Distilling User History for Personalized Scientific Writing
 
-This repository contains the code and dataset for the paper "STEP-BACK PROFILING: Distilling User History for Personalized Scientific Writing".
-
-![Overview](assets/step-back.png)
-
 ![GitHub](https://img.shields.io/github/license/step-back-profiling/step-back-profiling)
 ![GitHub](https://img.shields.io/github/issues/step-back-profiling/step-back-profiling)
 ![GitHub](https://img.shields.io/github/forks/step-back-profiling/step-back-profiling)
+
+This repository contains the code and dataset for the paper "STEP-BACK PROFILING: Distilling User History for Personalized Scientific Writing".
+
+![Overview](assets/step-back.png)
 
 ## Table of Contents
 - [Dataset Generation](#dataset-generation)
