@@ -1,5 +1,5 @@
 # STEP-BACK PROFILING: Distilling User History for Personalized Scientific Writing
-https://github.com/gersteinlab/step-back-profiling
+
 ![GitHub](https://img.shields.io/github/license/gersteinlab/step-back-profiling)
 ![GitHub repo size](https://img.shields.io/github/repo-size/gersteinlab/step-back-profiling)
 ![GitHub last commit](https://img.shields.io/github/last-commit/gersteinlab/step-back-profiling)
