@@ -61,7 +61,14 @@ These notebooks are used for generating user profiles and final outputs for the 
 If you find this work useful, please cite our paper:
 
 ```
-placeholder
+@misc{tang2024stepback,
+      title={Step-Back Profiling: Distilling User History for Personalized Scientific Writing}, 
+      author={Xiangru Tang and Xingyao Zhang and Yanjun Shao and Jie Wu and Yilun Zhao and Arman Cohan and Ming Gong and Dongmei Zhang and Mark Gerstein},
+      year={2024},
+      eprint={2406.14275},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+}
 ```
 
 ## License
