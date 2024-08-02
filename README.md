@@ -19,6 +19,8 @@ This repository contains the code and dataset for the paper "STEP-BACK PROFILING
 
 The dataset generation process involves the following steps:
 
+0. Download the raw data here [s2orc_4000.json](https://drive.google.com/file/d/1s9DCidREnhLLCLfTqYu0WTNd808XgCyz/view?usp=sharing)
+
 1. Get sampled author list and paper list in JSON format:
    - `dataset/data_construction.ipynb`
 
